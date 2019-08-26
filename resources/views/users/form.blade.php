@@ -1,4 +1,4 @@
-<div id="my-id" uk-modal>
+<div id="my-id" uk-modal="bgClose: false">
    <div class="uk-modal-dialog">
       <button class="uk-modal-close-default" type="button" uk-close></button>
       <div class="uk-modal-header">
